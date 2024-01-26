@@ -1,0 +1,5 @@
+{
+  "serverPort" : 3001,
+  "dbUrl": "mongodb+srv://AN:markuswife@itis.qqwhiyz.mongodb.net/Itisbd?retryWrites=true&w=majority",
+  "secretKey": "itis-secret-key"
+}
